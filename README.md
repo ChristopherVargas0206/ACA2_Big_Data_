@@ -1,5 +1,4 @@
-# ACA2_Big_Data_
-Proyecto académico de Big Data y Machine Learning sobre contratación pública usando PySpark y Spark MLlib.
+
 # ACA2 - Herramientas de Big Data
 
 Proyecto académico orientado al análisis de contratación pública mediante técnicas de Big Data y Machine Learning utilizando PySpark y Spark MLlib.
